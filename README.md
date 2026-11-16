@@ -9,7 +9,7 @@ A collection of research projects in machine learning, computational biology, an
 
 Investigated machine learning approaches to modeling amygdala brain aging using UK Biobank data and explored genetic associations with accelerated aging.
 
-[View Project]
+[View Project Poster (PDF)](https://github.com/daniella-q-ling/Research-Portfolio/blob/main/HYRS-Brain-Aging/Daniella%20HYRS%20Research%20Poster.pdf)
 
 ### 2. Alphaca International Biology Journal
 **Founder & Editor-in-Chief**
